@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+# 혜빈이의 깃허브
+
 <!--
 **hyebinJeong/hyebinJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
