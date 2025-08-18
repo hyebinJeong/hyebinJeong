@@ -7,7 +7,7 @@
   <div>
     <h2 style="color:#282d33;">✨ About me</h2>
     <div style="font-weight:700; font-size:15px; text-align:center; color:#282d33;">
-      안녕하세요. 기록과 공유를 좋아하며, 창의적인 아이디어를 기반으로 성장하고 있는 프론트엔드 개발자 정혜빈입니다.
+      안녕하세요. 기록과 공유를 좋아하며, 창의적인 아이디어를 기반으로 성장하고 있는 개발자 정혜빈입니다.
     </div>
   </div>
 
